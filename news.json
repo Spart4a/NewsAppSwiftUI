@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 3340,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Tanstack.com"
+            },
+            "author": null,
+            "title": "TanStack Query(a.k.a. React Query) v5 announced",
+            "description": "About one year ago, we announced the TanStack Query v5 roadmap, and the whole team has been working hard on that version ever since. So we're super happy to announce that today is the day: After 91 alpha releases, 35 betas and 16 release candidates, TanStack …",
+            "url": "https://tanstack.com/blog/announcing-tanstack-query-v5",
+            "urlToImage": "https://tanstack.com/build/_assets/og-FA4FELIQ.png",
+            "publishedAt": "2023-10-19T09:03:28Z",
+            "content": "About one year ago, we announced the TanStack Query v5 roadmap, and the whole team has been working hard on that version ever since. So we're super happy to announce that today is the day: After 91 a… [+4639 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Brave's AI assistant comes to its desktop browser",
+            "description": "Brave joins the growing list of browsers that come with built-in generative AI assistants. The open source browser developer has started rolling out an update for Brave on desktop, which gives users access to its AI assistant Leo. Brave introduced Leo through…",
+            "url": "https://www.engadget.com/braves-ai-assistant-comes-to-its-desktop-browser-160010918.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hy1VqimfFsap.._lGORMzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-06/fd163430-d28b-11eb-b377-c0e600bf35f0",
+            "publishedAt": "2023-11-02T16:00:10Z",
+            "content": "Brave joins the growing list of browsers that come with built-in generative AI assistants. The open source browser developer has started rolling out an update for Brave on desktop, which gives users … [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Buttondown.email"
+            },
+            "author": "Null Bitmap by Justin Jaffray",
+            "title": "The Case of a Curious SQL Query",
+            "description": "Languages that suffer success often have to do so by selling out and adding features that go against some of the original purposes of their design. SQL is a...",
+            "url": "https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/",
+            "urlToImage": "https://buttondown.imgix.net/images/7ba49cec-d8b6-4e4f-b4c4-5767ac911358.png?w=960&fit=max",
+            "publishedAt": "2023-10-25T19:10:08Z",
+            "content": "Languages that suffer success often have to do so by selling out and adding features that go against some of the original purposes of their design.\r\nSQL is a great example of a language built on very… [+8368 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "Qualcomm brings on-device AI to mobile and PC",
+            "description": "Qualcomm is no stranger in running artificial intelligence and machine learning systems on-device and without an internet connection. They’ve been doing it with their camera chipsets for years. But on Tuesday at Snapdragon Summit 2023, the company announced t…",
+            "url": "https://www.engadget.com/qualcomm-brings-on-device-ai-to-mobile-and-pc-190030938.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4A2CBeXtSKp7rl9A_43XFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njc-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/8c71eac2-71d6-11ee-bdd5-9c984c0d4c48",
+            "publishedAt": "2023-10-24T19:00:30Z",
+            "content": "Qualcomm is no stranger in running artificial intelligence and machine learning systems on-device and without an internet connection. Theyve been doing it with their camera chipsets for years. But on… [+4581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Michael Nuñez",
+            "title": "Atropos Health leverages AI to democratize access to real-world evidence in healthcare",
+            "description": "Atropos Health, the Palo Alto, Calif.-based healthcare startup, unveiled today a new artificial intelligence (AI) system that could revolutionize how evidence is produced to inform medical decisions and research.",
+            "url": "https://venturebeat.com/ai/atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/10/nuneybits_Abstract_healthcare_icons_and_simple_geometric_shapes_893a6fb1-c9ee-4595-842d-3286cfc437ca-transformed.png?w=1200&strip=all",
+            "publishedAt": "2023-10-05T13:00:00Z",
+            "content": "VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers.Learn More\r\nAtropos Health, the Palo Alto, Calif.-based healthcare… [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thedailywtf.com"
+            },
+            "author": "Remy Porter",
+            "title": "CodeSOD: High Performance Query",
+            "description": "Aaron was doing some work with a high-performance-computing platform. The kind of thing that handles complex numerical simulations divided across farms of CPUs, GPUs, FPGAs, and basically anything else that computes.\nThe system comes with a web GUI, and the c…",
+            "url": "https://thedailywtf.com/articles/high-performance-query",
+            "urlToImage": "https://thedailywtf.com/images/remy/Remy203-300x300.png",
+            "publishedAt": "2023-10-30T06:30:00Z",
+            "content": "Aaron was doing some work with a high-performance-computing platform. The kind of thing that handles complex numerical simulations divided across farms of CPUs, GPUs, FPGAs, and basically anything el… [+5213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Acm.org"
+            },
+            "author": null,
+            "title": "A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing",
+            "description": "Although several spatial indexes achieve fast query processing, they are ineffective\nfor highly dynamic data sets because of costly updates. On the other hand, simple\nstructures that enable efficient updates are slow for spatial queries. In this paper,\n...",
+            "url": "https://dl.acm.org/doi/10.14778/3574245.3574253",
+            "urlToImage": "https://dl.acm.org/cms/asset/62056431-9d05-4a2d-b928-94978471bba1/3574245.cover.jpg",
+            "publishedAt": "2023-10-29T12:53:20Z",
+            "content": "Although several spatial indexes achieve fast query processing, they are ineffective for highly dynamic data sets because of costly updates. On the other hand, simple structures that enable efficient… [+844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "Google's AI-powered Search experience gains new image generation tools",
+            "description": "Google is rolling out a few additional features for SGE participants for image generation and brainstorming.",
+            "url": "https://www.androidcentral.com/apps-software/google-search-labs-images-draft-experiment",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GUKLJWazaisYLdSQHyK4rM-1200-80.jpg",
+            "publishedAt": "2023-10-12T18:35:09Z",
+            "content": "<ul><li>Google is rolling out two new experiments for its U.S.-based SGE (Search Labs) participants today.</li><li>Users should begin finding AI-generation tools directly through Search if you are en… [+2816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mack DeGeurin",
+            "title": "New Google Trial Docs May Explain Why Search Sucks So Bad Now",
+            "description": "The Department of Justice and Google just rumbled their way past the halfway point of a landmark antitrust trial vying to answer a potentially industry-rupturing question: Does Google maintain its ironfisted stranglehold over internet search results because o…",
+            "url": "https://gizmodo.com/new-google-trial-docs-explain-why-search-is-worse-1850982736",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ec0d0c3a32872a10e1226b1bc59773ea.jpg",
+            "publishedAt": "2023-11-02T14:10:00Z",
+            "content": "The Department of Justice and Google just rumbled their way past the halfway point of a landmark antitrust trial vying to answer a potentially industry-rupturing question: Does Google maintain its ir… [+10179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Npmjs.com"
+            },
+            "author": null,
+            "title": "Stark-DB: SQLite-backed, change-tracking database available over HTTP",
+            "description": "Database engine based on SQLite.. Latest version: 1.1.20, last published: 5 days ago. Start using stark-db in your project by running `npm i stark-db`. There are no other projects in the npm registry using stark-db.",
+            "url": "https://www.npmjs.com/package/stark-db",
+            "urlToImage": "https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+            "publishedAt": "2023-10-12T20:09:47Z",
+            "content": "SQLite-backed, change-tracking database available over HTTP.\r\nRun with:\r\nBy default, the DB engine is configured to run over SSL. While some self-signed\r\nssl certificates are automatically generated,… [+9155 chars]"
+        }
+    ]
+}
